@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋 I'm David
 
 <!--
 **davidalucas/davidalucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently a fullstack web dev, creating new apps to support Boeing 787 production system automation and data analytics<br/>
+🌱 I’m currently learning Rust, as well as Svelte (and maybe Solid.js in the near future)<br/>
+👯 I’m willing to collaborate on pretty much anything; if you need help with something, please feel free to reach out<br/>
+💬 Ask me about digital manufacturing, fullstack web dev, AWS cloud architecture<br/>
+
+📫 How to reach me:
+  - [X (formerly Twitter)](https://twitter.com/DalWareZero)
+  - [LinkedIn](https://www.linkedin.com/in/david-lucas-00131548/)
+  - [Discord](https://discord.com/): dalware.zero
